@@ -1,6 +1,6 @@
 package com.Stream.API.and.optional.Controller;
 
-import com.Stream.API.and.optional.Employee;
+import com.Stream.API.and.optional.Model.Employee;
 import com.Stream.API.and.optional.Service.DepartmentService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

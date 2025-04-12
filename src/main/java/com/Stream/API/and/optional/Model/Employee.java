@@ -1,4 +1,4 @@
-package com.Stream.API.and.optional;
+package com.Stream.API.and.optional.Model;
 
 import java.util.Objects;
 
